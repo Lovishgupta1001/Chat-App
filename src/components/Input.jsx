@@ -95,7 +95,7 @@ const Input = () => {
                     <label htmlFor="file">
                         <img src={Img} alt="" />
                     </label>
-                    <button type="submit">Send</button>
+                    <button  type="submit">Send</button>
                 </div>
             </div>
         </form>
